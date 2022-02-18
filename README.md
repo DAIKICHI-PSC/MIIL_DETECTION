@@ -14,3 +14,5 @@ numpy
 cv2
 
 If you have any other required libraries, please install them.
+
+You also need yolo_cpp_dll.dll as well.
